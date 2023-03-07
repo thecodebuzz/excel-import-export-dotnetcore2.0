@@ -2,5 +2,5 @@
 Work with Excel or word or powerpoint in .NET Core
 for more details on how to use API please visit,
 
-#https://thecodebuzz.com/read-excel-file-in-dotnet-core-2-1/
+#https://www.thecodebuzz.com/read-excel-file-in-dotnet-core-2-1/
 
